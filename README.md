@@ -1,0 +1,2 @@
+# Financial-Distress-Prediction-Using-Analytics-An-Empirical-Study-Using-Classification-Models
+An empirical financial analytics project focused on predicting corporate financial distress using classification models, including Logistic Regression, Decision Tree, and Random Forest. Analyzes financial ratios and key performance indicators using Python, R, and Excel to identify potential financial risks and evaluate model performance.
